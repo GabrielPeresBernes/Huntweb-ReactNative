@@ -30,32 +30,30 @@ Next you need to run `npm run android` or `yarn android` to install the app in y
 
 - **List all resources**
 
-![](.gif)
+![](index.gif)
 
 - **Show a resource (in a webview)**
 
-![](.gif)
+![](show.gif)
 
 ## Directory Structure
 
-- **node_modules/** (project dependencies)
+- **android/** (react native android environment configuration)
 
-- **public/** (public files like index.html and favicon)
+- **ios/** (react native ios environment configuration)
+
+- **node_modules/** (project dependencies)
 
 - **src/** (main application files, available in development)
 
-  - **components/** (components React)
+  - **config/** (application configuration)
 
   - **pages/** (application pages)
   
   - **services/** (handles external resources, like api interface)
 
-  - **utils/** (utility functions)
-
-  - **App.js** (import the application routes to be rendered)
-
-  - **index.js** (render React in the application)
-
   - **routes.js** (routes of the application)
   
-  - **styles.css** (main styles of the application)
+- **App.js/** (import routes to be rendered)
+
+- **index.js/**
