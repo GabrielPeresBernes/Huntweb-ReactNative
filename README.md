@@ -1,6 +1,6 @@
 # Huntweb React Native
 
-Front-End Mobile application inspired by Product Hunt made with React Native.
+Front-End Mobile application inspired by [Product Hunt](https://www.producthunt.com/) made with React Native.
 
 The purpose of this application is to practice the concepts of React Native as seen in the [Rocketseat](https://rocketseat.com.br/) free course.
 
