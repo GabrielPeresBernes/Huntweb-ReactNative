@@ -28,7 +28,7 @@ Next you need to run `npm run android` or `yarn android` to install the app in y
 
 ## Functionality
 
-- **List all resources**
+- **List all resources (with infinite scroll)**
 
 ![](index.gif)
 
